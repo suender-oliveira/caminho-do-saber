@@ -1,6 +1,6 @@
 # 🧭 Caminho do Saber: Uma Jornada pela História do Conhecimento
 
-![Banner Ilustrativo](https://via.placeholder.com/1200x400/2d3436/ffffff?text=Desvende+o+Legado+da+Humanidade)  
+![Banner Ilustrativo](./recursos/imagens/livros-com-cerebro-em-estilo-de-arte-digital-para-o-dia-da-educacao.jpg?text=Desvende+o+Legado+da+Humanidade)  
 
 Este repositório é um **mapa do conhecimento humano**, traçando uma jornada épica desde os primeiros registros escritos na Suméria até os avanços da inteligência artificial. Explore como civilizações, ideias e tecnologias moldaram o mundo moderno — e como você pode aprender com esse legado.
 
